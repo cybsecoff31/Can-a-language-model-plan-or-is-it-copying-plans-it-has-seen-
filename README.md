@@ -82,4 +82,4 @@ For a generated program, these apply to held-out tasks larger than any training 
 
 ## AI use disclosure
 
-Claude (Anthropic) was used to extract figures from the cited papers, draft and typeset the review in LaTeX, and produce the accompanying slides from the earlier report and the readings. The authors are responsible for checking every number against the cited versions and for the conclusions.
+Claude (Anthropic) was used to extract figures from the cited papers.
